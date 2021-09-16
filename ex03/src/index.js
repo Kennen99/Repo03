@@ -1,7 +1,6 @@
 function main() {
     //Only change code below this line
-    //nesto
-    /*drugo nesto*/
+    var forCat;
     //Only change code above this line
 }
 
